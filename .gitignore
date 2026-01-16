@@ -1,0 +1,23 @@
+# 私钥和敏感信息
+*.key
+*.pem
+.env
+.env.*
+secrets/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
